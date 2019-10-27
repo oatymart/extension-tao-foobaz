@@ -1,0 +1,19 @@
+{
+  "name": "tao-foobaz-fe",
+  "version": "0.0.1",
+  "license": "GPL-2.0",
+  "description": "TAO dummy extension FE dependency installer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oatymart/extension-tao-foobaz.git"
+  },
+  "author": "M. Nicholson",
+  "dependencies": {
+    "@oat-sa/browserslist-config-tao": "^0.1.0",
+    "@oat-sa/tao-core-sdk": "0.9.0",
+    "the-answer": "1.0.0"
+  },
+  "browserslist": [
+    "extends @oat-sa/browserslist-config-tao"
+  ]
+}
