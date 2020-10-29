@@ -9,3 +9,4 @@ Dummy extension for fun and experimentation
 4. fix: a conventional fix
 5. a plain commit
 6. fix: a conventional fix
+7. feat: a conventional feature
