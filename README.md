@@ -11,3 +11,4 @@ Dummy extension for fun and experimentation
 6. fix: a conventional fix
 7. feat: a conventional feature
 8. breaking: a conventional catastrophe
+9. breaking: a conventional catastrophe part 2
