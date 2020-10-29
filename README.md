@@ -14,3 +14,4 @@ Dummy extension for fun and experimentation
 9. breaking: a conventional catastrophe part 2
 10. BREAKING CHANGE: get the commit msg format right
 11. BREAKING CHANGE: get the commit msg format right!!! part 2
+12. breaking!: one more try
