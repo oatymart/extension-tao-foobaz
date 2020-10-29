@@ -12,3 +12,4 @@ Dummy extension for fun and experimentation
 7. feat: a conventional feature
 8. breaking: a conventional catastrophe
 9. breaking: a conventional catastrophe part 2
+10. BREAKING CHANGE: get the commit msg format right
