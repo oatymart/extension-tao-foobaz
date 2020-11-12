@@ -15,5 +15,12 @@ Dummy extension for fun and experimentation
 10. BREAKING CHANGE: get the commit msg format right
 11. BREAKING CHANGE: get the commit msg format right!!! part 2
 12. breaking!: one more try
+13. feature: another feature
+14. fix: another fix
+15. feat!: a breaking feature
+16. a commit
+17. a pre-merge commit
+18. a develp commit
+extra line to be merged
 extra line to be merged
 feat: new line to be merged
