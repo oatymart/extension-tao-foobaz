@@ -24,3 +24,4 @@ Dummy extension for fun and experimentation
 extra line to be merged
 extra line to be merged
 feat: new line to be merged
+fix: additional line
