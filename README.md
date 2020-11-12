@@ -22,3 +22,5 @@ Dummy extension for fun and experimentation
 17. a pre-merge commit
 18. a develp commit
 extra line to be merged
+extra line to be merged
+feat: new line to be merged
