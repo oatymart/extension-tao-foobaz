@@ -18,3 +18,4 @@ Dummy extension for fun and experimentation
 13. feature: another feature
 14. fix: another fix
 15. feat!: a breaking feature
+16. a commit
