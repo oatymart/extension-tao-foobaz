@@ -16,3 +16,4 @@ Dummy extension for fun and experimentation
 11. BREAKING CHANGE: get the commit msg format right!!! part 2
 12. breaking!: one more try
 13. feature: another feature
+14. fix: another fix
