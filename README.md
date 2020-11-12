@@ -17,3 +17,4 @@ Dummy extension for fun and experimentation
 12. breaking!: one more try
 13. feature: another feature
 14. fix: another fix
+15. feat!: a breaking feature
