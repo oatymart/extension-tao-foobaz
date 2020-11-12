@@ -25,4 +25,5 @@ extra line to be merged
 extra line to be merged
 feat: new line to be merged
 fix: additional line
-19. feat: master commit
+19. feat: develop commit
+20. feat: master commit
