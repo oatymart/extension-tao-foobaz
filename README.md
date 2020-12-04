@@ -27,3 +27,4 @@ feat: new line to be merged
 fix: additional line
 19. feat: develop commit
 20. feat: master commit
+21. fix(scope): one last try
