@@ -28,3 +28,4 @@ fix: additional line
 19. feat: develop commit
 20. feat: master commit
 21. fix(scope): one last try
+22. bad commit: invalid line
