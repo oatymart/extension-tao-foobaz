@@ -29,3 +29,4 @@ fix: additional line
 20. feat: master commit
 21. fix(scope): one last try
 22. bad commit: invalid line
+23. chore: cleanup test file
