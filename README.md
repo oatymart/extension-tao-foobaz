@@ -33,3 +33,4 @@ fix: additional line
 24. test: non-interactive mode
 25. test: interactive mode
 26. test: interactive mode + translation
+27. test: non-interactive mode + not conventional + release comment
