@@ -36,3 +36,4 @@ fix: additional line
 27. test: non-interactive mode + not conventional + release comment
 28. test: non-interactive mode without any token
 29. test: interactive mode + updateTranslations=false
+30. test: non-interactive mode + updateTranslations=false
