@@ -31,3 +31,4 @@ fix: additional line
 22. bad commit: invalid line
 23. chore: cleanup test file
 24. test: non-interactive mode
+25. test: interactive mode
