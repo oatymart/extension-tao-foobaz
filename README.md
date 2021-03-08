@@ -30,3 +30,4 @@ fix: additional line
 21. fix(scope): one last try
 22. bad commit: invalid line
 23. chore: cleanup test file
+24. test: non-interactive mode
