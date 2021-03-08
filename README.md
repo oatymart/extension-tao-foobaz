@@ -32,3 +32,4 @@ fix: additional line
 23. chore: cleanup test file
 24. test: non-interactive mode
 25. test: interactive mode
+26. test: interactive mode + translation
