@@ -37,3 +37,4 @@ fix: additional line
 28. test: non-interactive mode without any token
 29. test: interactive mode + updateTranslations=false
 30. test: non-interactive mode + updateTranslations=false
+31. test: interactive plain
