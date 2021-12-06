@@ -10,7 +10,7 @@
   "author": "M. Nicholson",
   "dependencies": {
     "@oat-sa/browserslist-config-tao": "^0.1.0",
-    "@oat-sa/tao-core-sdk": "0.9.0",
+    "@oat-sa/tao-core-sdk": "^0.9.0",
     "the-answer": "1.0.0"
   },
   "browserslist": [
