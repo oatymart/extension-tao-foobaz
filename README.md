@@ -39,3 +39,4 @@ fix: additional line
 30. test: non-interactive mode + updateTranslations=false
 31. test: interactive plain
 32. test: interactive skip translations
+33. test: credential check
